@@ -1,4 +1,4 @@
-import Logo from "./logo.png";
+import Logo from "./logo.jpg";
 import { motion } from "framer-motion";
 import React from "react";
 import { ButtonStart } from "../../components/buttons/ButtonStart";
